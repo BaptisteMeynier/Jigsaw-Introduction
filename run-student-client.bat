@@ -1,0 +1,1 @@
+java --module-path mods -m com.java.jigsaw.student.client/com.java.jigsaw.student.client.StudentClient
